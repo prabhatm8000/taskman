@@ -1,0 +1,13 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prodBuild": "cd client && npm run build && cp -r ./dist/* ../server/clientBuild && cd ../server && npm run build",
+    "prodRun": "cd server && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
