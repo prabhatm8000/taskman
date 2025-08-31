@@ -2,6 +2,11 @@
 
 > A clean, type-safe **task management** monorepo with a **client** (React + TypeScript) and a **server** (Node.js + Express + MongoDB).
 
+<video width="100%" height="auto" controls autoplay muted>
+    <source src="https://res.cloudinary.com/dtapvbbzb/video/upload/v1756639175/portfolio/taskman-video-1756638341949_zfthzk.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ---
 
 ## Table of Contents
